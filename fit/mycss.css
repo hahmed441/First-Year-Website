@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+}
+h1 {
+color:red;
+font-size:60pt;
+font-family:gunplay;
+text-align:center;
+font-weight:bold;
+}
+
+p1 {
+color:red;
+font-size:20pt;
+font-family:Rockwell;
+text-align:left;
+Font-weight:bold;
+}
+/** css for the scrolling text at the top of the page **/
+scrollbar {
+	color: Red;
+	font-size: 75pt;
+	font-family: plok;
+	text-align: center;
+	font-weight: bold;
+}

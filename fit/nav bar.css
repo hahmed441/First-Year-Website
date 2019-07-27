@@ -1,0 +1,27 @@
+/**CSS for navigation bar**/
+li a {
+	color:black; /**this sets the colour of the text on the navigation bar**/
+	font-size: 20pt;
+	display: block;
+	padding:20px;
+	border: 1pt solid black;
+	background-color: red;
+	text-decoration: none;
+font-family: calibri;
+text-align:center;
+width:220px;
+
+	}
+li a:hover {
+	background-color: white;
+	color:blue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+overflow: hidden;
+}
+li {
+	float:left;
+}
